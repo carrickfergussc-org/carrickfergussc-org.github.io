@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
 ---
 
-# About us
+Information about us will go here
