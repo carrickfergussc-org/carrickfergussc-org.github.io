@@ -1,6 +1,6 @@
 ---
-layout: single
+layout: page
 title: Racing
 ---
 
-Racing for all sorts of boats
+# Racing

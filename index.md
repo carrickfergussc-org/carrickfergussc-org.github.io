@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Home
+title: Carrickfergus Sailing Club
 ---
 Welcome to Carrickfergus Sailing Club

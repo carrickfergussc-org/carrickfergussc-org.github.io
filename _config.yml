@@ -28,30 +28,9 @@ twitter_username: ""
 github_username:  ""
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
-
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
-logo: "/assets/images/logo.png"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      breadcrumbs: true  
-      sidebar:
-        nav: "main"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
