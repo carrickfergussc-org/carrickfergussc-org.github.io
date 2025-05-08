@@ -13,9 +13,9 @@ Welcome to Carrickfergus Sailing Club
      data-tabs="timeline" 
      data-width="" 
      data-height="" 
-     data-small-header="false" 
+     data-small-header="true" 
      data-adapt-container-width="true" 
-     data-hide-cover="false" 
+     data-hide-cover="true" 
      data-show-facepile="true">
     <blockquote cite="https://www.facebook.com/CarrickfergusSailingClub/" class="fb-xfbml-parse-ignore">
         <a href="https://www.facebook.com/CarrickfergusSailingClub/">Facebook Page Name</a>
