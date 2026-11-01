@@ -1,0 +1,14 @@
+<ul class="subpage-list">
+    {% assign current_url = page.url %}
+    {% for p in site.pages %}
+    {% if p.url != current_url and p.url contains current_url %}
+    {% assign relative_path = p.url | remove_first: current_url %}
+    {% assign segments = relative_path | split: '/' %}
+    {% if segments.size == 1 and p.title %}
+    <li>
+        <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    </li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</ul>
