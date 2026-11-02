@@ -35,6 +35,7 @@ theme: minima
 header_pages:
   - about-carrickfergus-sailing-club.md
   - racing.md
+  - site-map.md
 
 incremental: true
 
