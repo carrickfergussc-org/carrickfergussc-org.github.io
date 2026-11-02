@@ -22,7 +22,7 @@ Membership of a Class Association is a requirement for this event. Further infor
 
 Competitors should make themselves aware of the [guidance and restrictions on the Covid-19 pages of the website](https://www.carrickfergussc.org/covid-19/) 
 
-[subpages]
+{% include subpages.html %}
 
 <!-- Noscript content for added SEO -->
 <noscript>[</noscript>

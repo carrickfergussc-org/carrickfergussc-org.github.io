@@ -40,6 +40,6 @@ Sailing Instructions are available on down the page
 
 <hr class="wp-block-separator"/>
 
-[subpages]
+{% include subpages.html %}
 
 <div class="wp-block-file">[Notice of Race and Sailing Instructions](https://www.carrickfergussc.org/wp-content/uploads/2020/09/CSC-Autumn-Series-2020-Notice-of-Race-and-Sailing-Instructions-v3.pdf)[Download](https://www.carrickfergussc.org/wp-content/uploads/2020/09/CSC-Autumn-Series-2020-Notice-of-Race-and-Sailing-Instructions-v3.pdf)</div>

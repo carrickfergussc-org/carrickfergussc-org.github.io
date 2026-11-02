@@ -10,4 +10,4 @@ type: page
 
 The club is an RYA recognised Training Centre and runs courses for Adults and Children during the year
 
-[subpages]
+{% include subpages.html %}

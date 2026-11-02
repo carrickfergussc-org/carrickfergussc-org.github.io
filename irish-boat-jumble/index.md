@@ -8,3 +8,4 @@ parent: 0
 type: page
 ---
 
+{% include subpages.html %}

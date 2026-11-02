@@ -17,3 +17,4 @@ c. Glenarm BBQ 8<sup>th</sup>/9<sup>th</sup> June
 d. Copeland picnic Sun 23<sup>rd</sup> June
 
 e. Dinghy trip to Helen’s Bay: Sat 29<sup>th</sup> June
+{% include subpages.html %}

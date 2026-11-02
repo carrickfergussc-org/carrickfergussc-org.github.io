@@ -18,7 +18,7 @@ Racing will be for Restricted and Unrestricted NHC, and Ruffian 23
 
 Racing for Topper, Quba, Bahia, RS400 fleets and others PY Dinghies
 
-[subpages]
+{% include subpages.html %}
 
 ## Files for Download
 

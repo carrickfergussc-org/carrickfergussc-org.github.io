@@ -16,7 +16,7 @@ Classes available for NHC Unrestricted, NHC Restricted and Ruffian 23.
 
 For boats in NHC Unrestricted with a current valid IRC certificate there will also be dual scoring under IRC.
 
-[subpages]
+{% include subpages.html %}
 
 <ul><li>Results<ul><li>[Tuesday](https://www.sailwave.com/results/carrickfergussc/2022KeelboatTuesdaySummerSeries.htm)</li><li>[Thursday](https://www.sailwave.com/results/carrickfergussc/2022KeelboatThursdaySummerSeries.htm)</li></ul></li></ul>
 

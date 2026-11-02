@@ -14,7 +14,7 @@ Sundays from 5th September until the 24th October
 
 [Results](https://www.sailwave.com/results/carrickfergussc/2021AutumnSeries.html)
 
-[subpages]
+{% include subpages.html %}
 
 <!-- Noscript content for added SEO -->
 <noscript>[</noscript>

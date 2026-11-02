@@ -16,7 +16,7 @@ Contact details for further information are listed at the bottom of the Notice o
 
 [Results](https://www.sailwave.com/results/carrickfergussc/2021J24Northerns.html)
 
-[subpages]
+{% include subpages.html %}
 
 <!-- Noscript content for added SEO -->
 <noscript>[</noscript>

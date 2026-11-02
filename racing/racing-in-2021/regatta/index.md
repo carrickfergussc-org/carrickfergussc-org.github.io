@@ -21,3 +21,4 @@ The dates for the other [BLYC](http://www.belfastloughsailing.org/) regattas are
 [NHC Restricted](https://www.sailwave.com/results/carrickfergussc/2021RegattaNhcRestricted.htm)
 
 [Dinghy](https://www.sailwave.com/results/carrickfergussc/2021RegattaDinghy.htm)
+{% include subpages.html %}

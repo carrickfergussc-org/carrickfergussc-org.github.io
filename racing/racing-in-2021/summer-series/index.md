@@ -25,3 +25,4 @@ Tuesday and Thursday evenings for Keelboats<br>One race each evening starting at
 Tuesday and Thursday evenings will continue for Keelboats into the  late series from 6th July through to 2nd September
 
 Online Entry button for each series is available within the sections below
+{% include subpages.html %}

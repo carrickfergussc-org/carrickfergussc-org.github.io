@@ -52,3 +52,4 @@ For 2023 the club is moving to use the RYA YTC handicap scheme. This requires an
 <div class="wp-block-file">[Carrickfergus-Sailing-Club-Sailing-Instructions-Dinghy-Spring-Series-2023](https://www.carrickfergussc.org/wp-content/uploads/2023/02/Carrickfergus-Sailing-Club-Sailing-Instructions-Dinghy-Spring-Series-2023-1.pdf)</div>
 
 <div class="wp-block-file">[Carrickfergus-Sailing-Club-Sailing-Instructions-Keelboat-Spring-Series-2023](https://www.carrickfergussc.org/wp-content/uploads/2023/02/Carrickfergus-Sailing-Club-Sailing-Instructions-Keelboat-Spring-Series-2023-1.pdf)</div>
+{% include subpages.html %}

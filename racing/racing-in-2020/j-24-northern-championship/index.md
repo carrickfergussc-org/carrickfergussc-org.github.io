@@ -28,7 +28,7 @@ For further information email [Steve Atkinson](mailto:steve.atkinson@windswept.o
 
 <div class="wp-block-image"><figure class="alignright size-large"><img src="http://www.carrickfergussc.org/wp-content/uploads/2020/03/25-25-Wide-Blue-e1583589249133.png" alt="" class="wp-image-189"/></figure></div>
 
-[subpages]
+{% include subpages.html %}
 
 <div class="wp-block-group"><div class="wp-block-group__inner-container">
 

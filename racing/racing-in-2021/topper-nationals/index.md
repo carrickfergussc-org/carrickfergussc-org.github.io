@@ -22,7 +22,7 @@ Competitors should make themselves aware of [the guidance and restrictions on th
 <div class="wp-block-button">[Results](https://www.sailwave.com/results/carrickfergussc/2021TopperIrishNationals.html)</div>
 </div>
 
-[subpages]
+{% include subpages.html %}
 
 <!-- Noscript content for added SEO -->
 <noscript>[</noscript>

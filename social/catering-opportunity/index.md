@@ -20,4 +20,4 @@ Please send expressions of interest to [secretary@carrickfergussc.org](mailto:se
 
 <hr class="wp-block-separator is-style-wide"/>
 
-[subpages]
+{% include subpages.html %}

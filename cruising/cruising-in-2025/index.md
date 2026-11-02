@@ -29,3 +29,4 @@ type: page
 
 <li>Stranraer Oyster Fest - 12-14th September</li>
 </ul>
+{% include subpages.html %}

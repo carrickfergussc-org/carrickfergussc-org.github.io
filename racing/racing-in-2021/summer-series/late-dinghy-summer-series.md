@@ -8,7 +8,7 @@ parent: 926
 type: page
 ---
 
-[subpages]
+{% include subpages.html %}
 
 <!-- Noscript content for added SEO -->
 <noscript>[</noscript>

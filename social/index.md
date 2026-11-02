@@ -10,4 +10,4 @@ type: page
 
 The club runs many Social events throughout the year, both in combination with sailing events and on their own.
 
-[subpages]
+{% include subpages.html %}

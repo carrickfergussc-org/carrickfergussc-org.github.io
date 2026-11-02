@@ -8,4 +8,4 @@ parent: 104
 type: page
 ---
 
-[subpages]
+{% include subpages.html %}

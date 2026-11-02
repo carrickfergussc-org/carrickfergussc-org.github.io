@@ -46,7 +46,7 @@ No food is available so why not bring a picnic etc and enjoy the day.
 
 If you’d like to treat yourself to a ready made picnic , Annie from Delaceys Bakery has offered a takeaway picnic box for £5.   Order by 2pm Thursday to collect Saturday morning.   02893366771
 
-[subpages]
+{% include subpages.html %}
 
 <div class="wp-block-group"><div class="wp-block-group__inner-container">
 

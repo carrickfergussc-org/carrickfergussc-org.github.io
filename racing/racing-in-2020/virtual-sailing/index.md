@@ -14,7 +14,7 @@ The Club is planning to run some Virtual Sailing by making use of Virtual Regatt
 
 Initially we are going to have a series run on Friday evenings starting on 15th through to 29th. The start of the first race each day is scheduled for 19:05.
 
-[subpages]
+{% include subpages.html %}
 
 <div class="wp-block-file">[Notice of Race and Sailing Instructions - June Series](https://www.carrickfergussc.org/wp-content/uploads/2020/06/Virtual-Sailing-Nor-and-SI-June-2020-v1.pdf)[Download](https://www.carrickfergussc.org/wp-content/uploads/2020/06/Virtual-Sailing-Nor-and-SI-June-2020-v1.pdf)</div>
 

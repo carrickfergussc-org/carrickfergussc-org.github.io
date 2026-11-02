@@ -12,7 +12,7 @@ Evening sailing will return for the Rs400 class at the start of May. <br>Notice 
 
 Racing from Wednesday 4th May through to 6th July
 
-[subpages]
+{% include subpages.html %}
 
 <ul><li>[Results](https://www.sailwave.com/results/carrickfergussc/2022RS400EarlyWednesdaySummerSeries.htm)</li></ul>
 

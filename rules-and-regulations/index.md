@@ -8,6 +8,6 @@ parent: 0
 type: page
 ---
 
-[subpages]
+{% include subpages.html %}
 
 <div class="wp-block-file">[Articles of Association and Bye Laws](https://www.carrickfergussc.org/wp-content/uploads/2020/10/Articles-of-Association-amended-Nov-2014.pdf)[Download](https://www.carrickfergussc.org/wp-content/uploads/2020/10/Articles-of-Association-amended-Nov-2014.pdf)</div>

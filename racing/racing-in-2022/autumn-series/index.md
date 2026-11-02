@@ -12,7 +12,7 @@ The Autumn Series will run on Sundays from 11th September through to 30th Octobe
 
 There will be racing for Keelboats, RS400 and PY Dinghy.
 
-[subpages]
+{% include subpages.html %}
 
 <ul><li>[Results - Dinghy](https://www.sailwave.com/results/carrickfergussc/2022AutumnSeriesDinghy.htm)</li><li>[Results - Keelboat](https://www.sailwave.com/results/carrickfergussc/2022AutumnSeriesKeelboat.htm)</li></ul>
 

@@ -10,7 +10,7 @@ type: page
 
 10 races starting on Sunday 1st May through to 3rd July
 
- [subpages]
+ {% include subpages.html %}
 
 <ul><li>[Results](https://www.sailwave.com/results/carrickfergussc/2022EarlyDinghyHandicapSummerSeries.htm)</li></ul>
 

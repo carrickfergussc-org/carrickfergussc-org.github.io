@@ -10,7 +10,7 @@ type: page
 
 Tuesday Series - 6th July to 31st August<br>Thursday Series - 8th July to 2nd September
 
-[subpages]
+{% include subpages.html %}
 
 ## Online Entry
 

@@ -14,7 +14,7 @@ Starting on Sunday 6th March and running through to 11th April.
 
 Notice of Race includes Amendment 1, 2 and 3
 
-[subpages]
+{% include subpages.html %}
 
 <ul><li>[Results](https://www.sailwave.com/results/carrickfergussc/2022DinghySpringSeries.htm)</li></ul>
 

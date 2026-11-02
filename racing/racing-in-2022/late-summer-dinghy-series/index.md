@@ -16,7 +16,7 @@ There will be two classes roughly divided as follows:<br>PY 1 - RS40, Lasers and
 
 Other classes of boats will be allocated to a class as appropriate.
 
-[subpages]
+{% include subpages.html %}
 
 <ul><li>[Results](https://www.sailwave.com/results/carrickfergussc/2022LateDinghySeries.htm)</li></ul>
 
