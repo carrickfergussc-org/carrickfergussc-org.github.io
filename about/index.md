@@ -9,5 +9,10 @@ parent: 0
 type: page
 ---
 
-Carrickfergus Sailing Club is located on the north shore of Belfast Lough
+Carrickfergus Sailing Club is located on the north shore of Belfast Lough.
+
+something new here. 
+
+
+
 {% include subpages.html %}
