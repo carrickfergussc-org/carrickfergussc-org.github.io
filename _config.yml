@@ -35,6 +35,9 @@ theme: minima
 header_pages:
   - about/index.md
   - racing/index.md
+  - cruising/index.md
+  - training/index.md
+  - social/index.md
   - site-map.md
 
 incremental: true
