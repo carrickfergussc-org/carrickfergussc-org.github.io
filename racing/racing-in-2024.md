@@ -8,6 +8,4 @@ parent: 36
 type: page
 ---
 
-The club runs racing through the year starting with the Spring  Series, through the Summer Series and on into the Autumn Series.
-
-Racing takes place for Keelboats, Sportsboats and Dinghies.
+{% include subpages.html %}

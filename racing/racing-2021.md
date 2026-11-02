@@ -8,4 +8,4 @@ parent: 36
 type: page
 ---
 
-Information about the racing programme for 2021 will be published here once it becomes clear what will be allowed due to Covid Restrictions
+{% include subpages.html %}
