@@ -21,4 +21,3 @@ Welcome to Carrickfergus Sailing Club
         <a href="https://www.facebook.com/CarrickfergusSailingClub/">Facebook Page Name</a>
     </blockquote>
 </div>
-{% include subpages.html %}
